@@ -11,8 +11,6 @@ class App extends React.Component {
       name: 'Super Deluxe Propane'
     }
 
-    console.log(superDeluxe)
-
     return (
       <div className='App'>
         <h1>{logo}</h1>
